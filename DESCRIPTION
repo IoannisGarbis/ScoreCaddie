@@ -3,7 +3,7 @@ Title: Golf Perfomance Analysis Tools
 Version: 0.0.0.9000
 Authors@R: 
     person("Ioannis", "Garbis", , "ioannisgarbis@usf.edu", role = c("aut", "cre"))
-Description: ScoreCaddie provides functions for analyzing Golf perfomance such as scoring averages, driving accuracy, green in regulation, putting efficiency, score trends, and a calculated handicap.
+Description: ScoreCaddie provides functions for analyzing Golf perfomance such as scoring averages, driving accuracy, greens in regulation, putting efficiency, score trends, and a calculated handicap.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
