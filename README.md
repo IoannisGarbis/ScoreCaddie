@@ -3,9 +3,14 @@
 
 # ScoreCaddie
 
-The goal of ScoreCaddie is to provide simple tools for analyzing golf
-performance data such as scores, driving accuracy, greens in regulation,
-putting, and your handicap index!
+ScoreCaddie is made to give you simple to use tools for looking at golf
+performance data. It lets people figure out important statistics like
+driving accuracy, greens in regulation, scoring averages, and putting
+performance. The package also has features that let you keep track of
+score trends over several rounds and figure out a simplified handicap
+index. All of the functions are easy to use and accept numeric vectors,
+which makes it easy for golfers to check their progress and make
+improvements.
 
 ## Functions
 
